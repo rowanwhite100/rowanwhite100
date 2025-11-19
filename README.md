@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @rowanwhite100
-- 👀 I’m interested in CS and philosophy
-- 🌱 I’m currently learning app dev and algorithmic design
-- 👌 I'm working on a navigation app for the london undergound
-- 📫 How to reach me - DMs
-- 😄 Pronouns: he/him
+@rowanwhite100
 
 <!---
 rowanwhite100/rowanwhite100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
